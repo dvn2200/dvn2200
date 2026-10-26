@@ -26,3 +26,19 @@
   </p>
 
 </div>
+
+
+
+
+<br/>
+
+<div align="center">
+  <!-- TROFEOS / LOGROS -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dvn2200&theme=onedark&no-frame=true&column=6&margin-w=4" alt="Trophies" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" />
+</div>
