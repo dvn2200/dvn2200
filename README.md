@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER DINÁMICO TIPO CAPSULE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Buenas,%20Huevas%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Buenas,%20Huevas%20&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <!-- SUBTÍTULO / TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9509F7&width=435&lines=Cada+dia+con+menos+pelo)](https://git.io/typing-svg)
@@ -31,12 +31,6 @@
 
 
 <br/>
-
-<div align="center">
-  <!-- TROFEOS / LOGROS -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dvn2200&theme=onedark&no-frame=true&column=6&margin-w=4" alt="Trophies" />
-</div>
-
 
 
 <div align="center">
